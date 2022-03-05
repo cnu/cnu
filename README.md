@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srini</h1>
-<h3 align="center">A Entre+gineer who architects and builds large-scale SaaS products full-time and work on small online products on the side.</h3>
+<h3 align="center">An "Entre+gineer" who architects and builds large-scale SaaS products full-time and work on small online products on the side.</h3>
 
 - 🔭 I’m currently working at [Simfoni](https://simfoni.com)
 
