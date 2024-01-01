@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srini</h1>
 <h3 align="center">An "Entre+gineer" who architects and builds large-scale SaaS products full-time and work on small online products on the side.</h3>
 
-- 🔭 I’m currently working at [Simfoni](https://simfoni.com)
+- 🔭 I’m currently working at [SPPlus](https://spplus.com) handling tech, systems & architecture.
 
-- 🌱 I’m currently **building small single-purpose products.**
+- 🌱 I love **building small single-purpose products.** Recent one: [HN TL;DR](https://hntldr-21efc4db2c6f.herokuapp.com/)
 
 - 📝 I sometimes write articles on [https://cnu.name/](https://cnu.name/)
 
